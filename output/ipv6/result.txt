@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-07-17 19:49:30,https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8$订阅源
+2026-07-19 19:39:26,https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8$订阅源
 
 📺央视频道,#genre#
 CCTV-4,https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8$订阅源
@@ -119,6 +119,7 @@ CCTV-14,https://event.pull.hebtv.com/jishi/cp2.m3u8$订阅源
 海南新闻,http://ls.qingting.fm/live/1861.m3u8$订阅源
 
 ☘️河南频道,#genre#
+洛阳综合,http://devlivepull.migucloud.com/live/08QAZLG6_C0.flv$订阅源
 洛阳科教,http://devlivepull.migucloud.com/live/A2HVH5BQ_C0.flv$订阅源
 洛阳文旅,http://wshls.live.migucloud.com/live/Q081CD54_C0/playlist.m3u8$订阅源
 洛阳文旅,http://devlivepull.migucloud.com/live/Q081CD54_C0.flv$订阅源
@@ -143,6 +144,7 @@ CCTV-14,https://event.pull.hebtv.com/jishi/cp2.m3u8$订阅源
 山东生活,http://ls.qingting.fm/live/60260.m3u8$订阅源
 
 ☘️山西频道,#genre#
+古县综合,https://l2fpdktp.live.sxmty.com/live/hls/e4c3b363cc4549788e2d983f403e07db/d99ce1eb686e41b9afc888110bd95aa7.m3u8?zshanxd$订阅源
 定襄综合,http://lbyzztfe.live.sxmty.com/live/hls/645ff4c60e0a49f0a203abbd73dd8be9/0720e665f10f48e98c9639f4f492fb4a-1.m3u8?zshanxd$订阅源
 平遥新闻综合,https://tntgjhjb.live.sxmty.com/live/hls/3a4585ac11ec4e1bb07b419101b370c3/baf63e2b313440c2a25d7859f9b73b05-1.m3u8?zshanxd$订阅源
 怀仁综合,http://1yp7hc5p.live.sxmty.com/live/hls/bff8529922344209985b6e49baa9555a/efa2543628fc4a7ea93d3d6c975f77dc.m3u8?zshanxd,$订阅源
@@ -154,7 +156,10 @@ CCTV-14,https://event.pull.hebtv.com/jishi/cp2.m3u8$订阅源
 ☘️安徽频道,#genre#
 黄山公共生活,http://hslive.hsnewsnet.com/lsdream/iY92ady/1000/live.m3u8?zanhd$订阅源
 铜陵新闻综合,https://ls.qingting.fm/live/21303/64k.m3u8$订阅源
+宿松新闻综合,http://live.ahsz.tv/video/s10001-szzh/index.m3u8$订阅源
 宿州科教,rtmp://live.ahsz.tv/video/s10001-kxjy$订阅源
+宿州新闻综合,http://live.ahsz.tv/video/s10001-szzh/index.m3u8$订阅源
+宿州公共,http://live.ahsz.tv/video/s10001-ggpd/index.m3u8$订阅源
 六安新闻综合,http://ls.qingting.fm/live/267.m3u8$订阅源
 六安公共,http://ls.qingting.fm/live/1794199.m3u8$订阅源
 亳州农村,http://zbbf2.ahbztv.com/live/418.m3u8?zanhd$订阅源
@@ -204,8 +209,6 @@ TVBS亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe
 浙江少儿,https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8$订阅源
 浙江少儿,http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8$订阅源
 河北少儿科教,https://event.pull.hebtv.com/jishi/shaoerkejiao.m3u8$订阅源
-经典动漫,https://www.goodiptv.club/yy/22777075$订阅源
-漫画解说,https://www.goodiptv.club/douyu/5907076$订阅源
 
 🎮游戏频道,#genre#
 
